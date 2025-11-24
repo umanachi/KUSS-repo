@@ -1,1 +1,1 @@
-[Server Frontend Repository](https://github.com/samanthagburek/KUSS-repo-frontend)
+[Server Frontend Repository](https://github.com/umanachi/KUSS-repo-frontend)
